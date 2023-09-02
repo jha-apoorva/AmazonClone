@@ -2,6 +2,7 @@
     margin:0;
     font-family:Arial;
     border:border-box;
+    overflow:hidden;
 }
 .navbar{
     height:60px;
